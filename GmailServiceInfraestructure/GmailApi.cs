@@ -15,7 +15,7 @@ namespace GmailServiceInfraestructure
     /// <summary>
     /// Gmail client service.
     /// </summary>
-    public class GmailApi
+    public sealed class GmailApi
     {
         private const string ApplicationName = "Gmail API .NET";
         private const string userId = "me";
