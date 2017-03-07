@@ -55,7 +55,7 @@ namespace GmailServiceInfraestructure
         }
 
         /// <summary>
-        /// Get an instance of the gmail api service.
+        /// Get an instance of the calendar api service.
         /// </summary>
         public static CalendarApi Instance
         {
